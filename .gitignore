@@ -1,0 +1,10 @@
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/commands*.txt
+/maani_add.txt
+/mgef_add.txt
+/ench_robe.txt
